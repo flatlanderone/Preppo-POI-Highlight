@@ -1,5 +1,5 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
-,,,,,,,,,,,,,,,,,,
+
 carlot_02_prepper,POI,POIName,,x,Prepper Carl's Cars[FFF200] P[-],,,,,,,,,,,,,
 evildeadcabin01_prepper,POI,POIName,,x,Evil Zed Cabin[FFF200] P[-],,,,,,,,,,,,,
 oldwest_25x50_corn_01_arramus,POI,POIName,,x,Super Special Catacorn[FFF200] W[-],,,,,,,,,,,,,
