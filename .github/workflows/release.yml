@@ -20,5 +20,6 @@ jobs:
           prerelease: false
           files: |
             Config
+            Localization.txt
             ModInfo.xml
 
