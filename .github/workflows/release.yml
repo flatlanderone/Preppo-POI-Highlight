@@ -10,6 +10,7 @@ on:
 # Automatically create a GitHub Release, with release details specified (the relevant commits)
 jobs:
   release:
+    permissions: write-all
     name: "Release"
     runs-on: "ubuntu-latest"
     steps:
