@@ -3,7 +3,7 @@
 <xml>
         <Name value="xFL-Preppo-New-POI-Highlight"/>
         <DisplayName value="xFlatlander Preppo POI Highlight" />
-        <Version value="1.0.7"/>
+        <Version value="1.0.8"/>
         <Description value="Adds a 'P' after the name of POIs introduced by the Preppocaypse mod and a 'W' for POIs from the Old West Migration mod."/>
         <Author value="Flat Lander"/>
         <Website value="https://www.youtube.com/@flatlanderone"/>
